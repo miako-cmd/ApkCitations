@@ -17,3 +17,5 @@ Développement du script JS:
 -Tableau de citation(texte + auteur)
 -Fonction pour générer une citation aléatoire
 -Evènement déclenché au clic du bouton
+
+Lien site: https://miako-cmd.github.io/ApkCitations/
